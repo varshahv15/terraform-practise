@@ -1,6 +1,5 @@
 provider "google" {
   project = "terraform-test-try"
-  credentials = file("D:/DEAKIN/2024 T2/SIT764 PROJECT A/Terraform/terraform/credentials.json")
   region  = "us-central1"
 }
 
